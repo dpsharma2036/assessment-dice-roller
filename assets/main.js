@@ -28,6 +28,7 @@ showtherolls.addEventListener("click", function(){
     lists.innerHTML=str;
 });
 reset.addEventListener("click", function(reset){
-    
-    reset.innerHTML= Reset;
+    totalresult.innerHTML = 0;
+    numofdice.value = 0;
+    lists.innerHTML = '';
 });
