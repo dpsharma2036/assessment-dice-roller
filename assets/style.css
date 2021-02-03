@@ -1,14 +1,34 @@
-#reset-button{
+#resets{
     color:red;
     background-color: chartreuse;
 }
 
-.roll {
+#num {
     background-color: chartreuse;
     color:red;
 }
 
-.showtherolls{
+#showRoll{
     background-color:chartreuse;
     color: red;
+}
+
+#roll{
+    background-color: aquamarine;
+}
+
+#result{
+    background-color: burlywood;
+    height: 20px;
+    width: 45px;
+}
+
+h1{
+    color: crimson;
+}
+
+body{
+    height: 300px;
+    width: 300px;
+    background-color: darkgray;
 }
